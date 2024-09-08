@@ -116,7 +116,7 @@ public class NewClassforGit {
 
 	@Test
 	public void test2() throws JsonProcessingException {
-		System.out.println("Adding new file");
+		System.out.println("Adding deuplicate new file");
 	}
 
 }
